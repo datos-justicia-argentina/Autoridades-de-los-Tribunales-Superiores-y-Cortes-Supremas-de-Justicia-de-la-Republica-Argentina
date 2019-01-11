@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia - AAAA semestre
+### Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia - AAAA-MM
 
--   **Nombre:** provincia-mp-casos-iniciados-AAAA.csv
+-   **Nombre:** autoridades-tribunales-superiores-y-cortes-supremas-de-justicia-AAAA-MM.csv
 
 -   **Descripción del contenido:** se detallan las autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina, en el año AAAA
 
