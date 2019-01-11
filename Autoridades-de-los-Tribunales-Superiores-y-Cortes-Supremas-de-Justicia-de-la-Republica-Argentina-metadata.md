@@ -39,9 +39,9 @@ Recursos disponibles
 
 -   **provincia_indec_id (int):** código de provincia de la institución de justicia, según la codificación implementada por INDEC
 
--   **provincia_nombre (string):** nombre de provincia donde se encuentra la institución
+-   **provincia_nombre (string):** nombre de provincia donde se encuentra la institución de justicia
 
--   **institucion_localidad (string):** localidad donde se encuentra la institución
+-   **institucion_localidad (string):** localidad donde se encuentra la institución de justicia
 
 -   **institucion_nombre (string):** nombre de la institución de justicia
 
@@ -53,7 +53,7 @@ Recursos disponibles
 
 -   **autoridad_cargo (string):** cargo de la autoridad. Toma los valores:
 
--   **autoridad_fecha_nombramiento (date):** fecha de nombramiento de la autoridad. Solo aplica para la presidencia de las instituciones. Tiene el formato AAAA-MM-DD
+-   **autoridad_fecha_nombramiento (date):** fecha de nombramiento de la autoridad de la institución de justicia. Solo se informa para la presidencia de las instituciones de justicia. Tiene el formato AAAA-MM-DD
 
 -   **fuente_link (string):** link a la fuente de los datos, cuando esta estuviera publicada en internet
 
