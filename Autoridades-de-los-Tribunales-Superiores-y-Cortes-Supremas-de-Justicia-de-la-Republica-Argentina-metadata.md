@@ -43,13 +43,13 @@ Recursos disponibles
 
 -   **institucion_localidad (string):** localidad donde se encuentra la institución
 
--   **institucion_nombre (string):** nombre de la institución
+-   **institucion_nombre (string):** nombre de la institución de justicia
 
--   **autoridad_nombre (string):** nombre de la autoridad
+-   **autoridad_nombre (string):** nombre de la autoridad de la institución de justicia
 
--   **autoridad_apellido (string):** apellido de la autoridad
+-   **autoridad_apellido (string):** apellido de la autoridad de la institución de justicia
 
--   **autoridad_genero (string):** genero de la autoridad. Toma los valores "M" para masculino y "F" para femenino
+-   **autoridad_genero (string):** genero de la autoridad de la institución de justicia. Toma los valores "M" para masculino y "F" para femenino
 
 -   **autoridad_cargo (string):** cargo de la autoridad. Toma los valores:
 
