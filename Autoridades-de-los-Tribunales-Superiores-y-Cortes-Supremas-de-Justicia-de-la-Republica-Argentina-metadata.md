@@ -1,14 +1,14 @@
 Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina
 ================================================================================================
 
-En este conjunto de datos se detallan las autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina......
+En este conjunto de datos se detallan las autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires. La información se han recopilado en su mayor parte de los sitios oficiales de cada institución, auxiliarmente se ha recurrido a artículos periodísticos y a publicaciones de información judicial general.
 
 http://datos.jus.gob.ar/dataset/autoridades-de-los-tribunales-superiores-de-justicia
 
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 15/05/2019
 
 -   **Tags o Etiquetas:** autoridades, instituciones, poderes judiciales, suprema corte, superior tribunal, corte de justicia, Buenos Aires, Catamarca, Chaco, Chubut, CABA, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Río Negro, Salta, San Juan San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego, Tucumán
 
@@ -25,19 +25,17 @@ Características
 Recursos disponibles
 --------------------
 
-### Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia - AAAA-MM
+### Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia - AAAA-MM-DD
 
--   **Nombre:** autoridades-tribunales-superiores-y-cortes-supremas-de-justicia-AAAA-MM.csv
+-   **Nombre:** autoridades-tribunales-superiores-y-cortes-supremas-de-justicia-AAAA-MM-DD.csv
 
--   **Descripción del contenido:** se detallan las autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina, en el año AAAA
+-   **Descripción del contenido:** Se detallan las autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina desde enero de 2019 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires en el año AAAA
 
 ### Campos del recurso
-
--   **provincia_indec_id (int):** código de provincia de la institución de justicia, según la codificación implementada por INDEC
 
 -   **provincia_nombre (string):** nombre de provincia donde se encuentra la institución de justicia
 
@@ -51,12 +49,13 @@ Recursos disponibles
 
 -   **autoridad_genero (string):** genero de la autoridad de la institución de justicia. Toma los valores "M" para masculino y "F" para femenino
 
--   **autoridad_cargo (string):** cargo de la autoridad. Toma los valores:
+-   **autoridad_cargo (string):** cargo de la autoridad
 
 -   **autoridad_fecha_nombramiento (date):** fecha de nombramiento de la autoridad de la institución de justicia. Solo se informa para la presidencia de las instituciones de justicia. Tiene el formato AAAA-MM-DD
 
 -   **fuente_link (string):** link a la fuente de los datos, cuando esta estuviera publicada en internet
 
+-   **provincia_indec_id (int):** código de provincia de la institución de justicia, según la codificación implementada por INDEC
 
 ### Notas
 
