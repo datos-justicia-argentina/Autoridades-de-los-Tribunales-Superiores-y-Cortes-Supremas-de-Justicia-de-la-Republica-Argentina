@@ -1,7 +1,7 @@
 Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina
 ================================================================================================
 
-En este conjunto de datos se detallan las autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires. La información se han recopilado en su mayor parte de los sitios oficiales de cada institución, auxiliarmente se ha recurrido a artículos periodísticos y a publicaciones de información judicial general.
+En este conjunto de datos se detallan las autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires. La información se ha recopilado en su mayor parte de los sitios oficiales de cada institución. Auxiliarmente, se ha recurrido a artículos periodísticos y a publicaciones de información judicial general.
 
 http://datos.jus.gob.ar/dataset/autoridades-de-los-tribunales-superiores-de-justicia
 
@@ -20,7 +20,7 @@ Características
 
 -   **Grupo:** Instituciones de Justicia
 
--   **Frecuencia de Actualización:** Cada Medio año
+-   **Frecuencia de Actualización:** Anualmente
 
 Recursos disponibles
 --------------------
@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** autoridades-tribunales-superiores-y-cortes-supremas-de-justicia-AAAA-MM-DD.csv
 
--   **Descripción del contenido:** Se detallan las autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires.
+-   **Descripción del contenido:** se detallan las autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -47,7 +47,7 @@ Recursos disponibles
 
 -   **autoridad_apellido (string):** apellido de la autoridad de la institución de justicia
 
--   **autoridad_genero (string):** genero de la autoridad de la institución de justicia. Toma los valores "M" para masculino y "F" para femenino
+-   **autoridad_genero (string):** género de la autoridad de la institución de justicia. Toma los valores "M" para masculino y "F" para femenino
 
 -   **autoridad_cargo (string):** cargo de la autoridad
 
