@@ -37,6 +37,8 @@ Recursos disponibles
 
 ### Campos del recurso
 
+-   **provincia_id (string):** código de provincia de la institución de justicia, según la codificación implementada por INDEC
+
 -   **provincia_nombre (string):** nombre de provincia donde se encuentra la institución de justicia
 
 -   **institucion_localidad (string):** localidad donde se encuentra la institución de justicia
@@ -55,7 +57,6 @@ Recursos disponibles
 
 -   **fuente_link (string):** link a la fuente de los datos, cuando esta estuviera publicada en internet
 
--   **provincia_indec_id (int):** código de provincia de la institución de justicia, según la codificación implementada por INDEC
 
 ### Notas
 
