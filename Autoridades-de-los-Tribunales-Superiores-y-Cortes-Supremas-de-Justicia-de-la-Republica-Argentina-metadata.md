@@ -25,15 +25,15 @@ Características
 Recursos disponibles
 --------------------
 
-### Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia - AAAA-MM-DD
+### Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia - AAAAMMDD
 
--   **Nombre:** autoridades-tribunales-superiores-y-cortes-supremas-de-justicia-AAAA-MM-DD.csv
+-   **Nombre:** autoridades-tribunales-superiores-y-cortes-supremas-de-justicia-AAAAMMDD.csv
 
 -   **Descripción del contenido:** se detallan las autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires en el año AAAA
+-   **Rango temporal:** autoridades de las Cortes Supremas y Tribunales Superiores de Justicia de las provincias argentinas y de la Ciudad Autónoma de Buenos Aires actualizadas a la fecha AAAAMMDD
 
 ### Campos del recurso
 
