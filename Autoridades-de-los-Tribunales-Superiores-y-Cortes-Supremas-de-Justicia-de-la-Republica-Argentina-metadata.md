@@ -41,7 +41,9 @@ Recursos disponibles
 
 -   **provincia_nombre (string):** nombre de provincia donde se encuentra la institución de justicia
 
--   **institucion_localidad (string):** localidad donde se encuentra la institución de justicia
+-   **localidad_id (string):** codigo de localidad donde se encuentra la institución de justicia (según codificación implementada por INDEC)
+
+-   **localidad_nombre (string):** nombre de la localidad donde se encuentra la institución de justicia
 
 -   **institucion_nombre (string):** nombre de la institución de justicia
 
