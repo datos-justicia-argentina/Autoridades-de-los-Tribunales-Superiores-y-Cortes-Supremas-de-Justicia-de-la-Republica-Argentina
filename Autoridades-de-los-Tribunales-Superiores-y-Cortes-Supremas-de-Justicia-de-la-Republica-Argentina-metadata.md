@@ -53,7 +53,7 @@ Recursos disponibles
 
 -   **autoridad_genero (string):** género de la autoridad de la institución de justicia. Toma los valores "M" para masculino y "F" para femenino
 
--   **autoridad_cargo (string):** cargo de la autoridad. algunos ejemplos son: Presidente/Juez/Ministro/Vocal, etc.
+-   **autoridad_cargo (string):** cargo de la autoridad. Algunos ejemplos son: Presidente/Juez/Ministro/Vocal, etc.
 
 -   **autoridad_fecha_nombramiento (date):** fecha de nombramiento de la autoridad de la institución de justicia. Solo se informa para la presidencia de las instituciones de justicia. Tiene el formato AAAA-MM-DD
 
