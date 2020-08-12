@@ -59,6 +59,13 @@ Recursos disponibles
 
 -   **fuente_link (string):** link a la fuente de los datos, cuando esta estuviera publicada en internet
 
+### Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia
+
+-   **Nombre:** autoridades-tribunales-superiores-y-cortes-supremas-de-justicia.zip
+
+-   **Descripción del contenido:**  archivo comprimido que contiene las Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina.
+
+-   **Formato:** ZIP
 
 ### Notas
 
