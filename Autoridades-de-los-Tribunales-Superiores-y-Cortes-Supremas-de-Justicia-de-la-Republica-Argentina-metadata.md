@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** autoridades, instituciones, poderes judiciales, suprema corte, superior tribunal, corte de justicia, Buenos Aires, Catamarca, Chaco, Chubut, CABA, Córdoba, Corrientes, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Río Negro, Salta, San Juan San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego, Tucumán
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa Justicia Abierta
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa Justicia Abierta
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Justicia y Política Criminal. Programa Justicia Abierta
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Programa Justicia Abierta
 
 -   **Grupo:** Instituciones de Justicia
 
