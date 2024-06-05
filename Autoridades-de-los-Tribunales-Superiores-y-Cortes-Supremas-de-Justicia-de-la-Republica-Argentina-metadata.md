@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** autoridades, corte de justicia, instituciones, poderes judiciales, superior tribunal, suprema corte
 
--   **Organización:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal.
+-   **Organización:** Ministerio de Justicia
 
--   **Autor:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal.
+-   **Autor:** Ministerio de Justicia
 
--   **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Política Criminal.
+-   **Responsable:** Ministerio de Justicia
 
 -   **Grupo:** Instituciones de Justicia
 
